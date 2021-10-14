@@ -46,6 +46,8 @@ nav{
     background: pink;
     text-align: center;
     z-index: 1;
+    display: flex;
+    overflow: scroll;
 }
 
 nav a{
